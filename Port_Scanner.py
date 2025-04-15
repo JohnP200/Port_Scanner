@@ -16,4 +16,4 @@ def scan_ports(target, ports):
 if __name__ == "__main__":
     target = input("Enter the target IP address or hostname to scan:")
     ports = [22, 23, 21, 25, 53, 80, 110, 143, 443, 445, 3306,8080]
-    scan_ports(target, ports_to_scan)
+    scan_ports(target, ports)
