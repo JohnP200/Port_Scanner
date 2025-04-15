@@ -11,5 +11,5 @@ This is a simple TCP port scanner written in Python. It checks a list of common 
 
 Run it from the terminal
 
-'''bash
+```bash
 python port_scanner.py
