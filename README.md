@@ -13,3 +13,13 @@ Run it from the terminal
 
 ```bash
 python port_scanner.py
+
+## Example
+Enter the host to scan (e.g., 127.0.0.1): 127.0.0.1
+[*] Scanning 127.0.0.1...
+
+[+] Port 22 is open
+[+] Port 80 is open
+
+## Disclaimer
+This tool is for eductional purposes only. Unathorized port scanning is illegal and unethical.
